@@ -1,0 +1,31 @@
+{
+  "id": "020b5d92-7319-426c-b814-5dcabdf58887",
+  "name": "BCPT Performance Tests",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "75f1590f-55c5-4501-ae63-bada5534e852",
+      "name": "Microsoft",
+      "publisher": "Performance Toolkit",
+      "version": "23.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "23.0.0.0",
+  "application": "23.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "runtime": "11.0"
+}

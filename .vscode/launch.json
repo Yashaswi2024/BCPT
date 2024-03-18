@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Launch BCPT suite",
+      "request": "launch",
+      "type": "al",
+      "environmentType": "Sandbox",
+      "environmentName": "Student",
+      "startupObjectId": 149000,
+      "startupObjectType": "Page",
+      "breakOnError": true,
+      "launchBrowser": true,
+      "enableLongRunningSqlStatements": true,
+      "enableSqlInformationDebugger": true
+    }
+  ]
+}
